@@ -8,7 +8,7 @@ const Main=()=>{
         <div className="mt-10 mx-auto max-w-7xl px-3 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
           <div className="sm:text-center lg:text-left">
              <h1 className="text-4xl tracking-tight italic font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-               <span className="block xl:inline">Data to enrich your</span>
+               <span className="block xl:inline ">Data to enrich your</span>
                <span className="block text-indigo-600 xl:inline"> online business</span>
              </h1>
              <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
@@ -29,6 +29,9 @@ const Main=()=>{
         </div>
         </div>
         </div>
+        </div>
+        <div className="lg:absolute lg:inset-y-0 lg:right-2 mt-28 lg:w-1/2">
+           <img alt="homePhoto" src="../../image1.jpg" className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"/>
         </div>
         </div>
     )

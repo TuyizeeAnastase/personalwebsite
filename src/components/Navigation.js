@@ -5,7 +5,7 @@ const Navigation=()=>{
         <div>
         <div className="bg-gray-800">
           <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
-            <div className="relative flex items-center justify-between h-20">
+            <div className="relative flex items-center justify-between h-16">
                <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-20">
                   <a href="/#" class="bg-gray-900 text-white px-3 py-2 rounded-md text-lg font-bold italic">Home</a>
