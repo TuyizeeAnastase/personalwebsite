@@ -8,10 +8,10 @@ const Navigation=()=>{
             <div className="relative flex items-center justify-between h-16">
                <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-20">
-                  <a href="/#" class="bg-gray-900 text-white px-3 py-2 rounded-md text-lg font-bold italic">Home</a>
-                  <a href="/#" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Abouts</a>
-                  <a href="/#" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Projects</a>
-                  <a href="/#" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Contact</a>
+                  <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-lg font-bold italic">Home</a>
+                  <a href="/about" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Abouts</a>
+                  <a href="/project" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Projects</a>
+                  <a href="/contact" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-lg font-bold italic">Contact</a>
                   </div>
                </div>
             </div>
